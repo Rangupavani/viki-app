@@ -1,0 +1,167 @@
+{
+  "dramas": [
+    {
+      "id": "1",
+      "title": "The Story of Kunning Palace",
+      "country": "China",
+      "genre": "Historical Romance",
+      "rating": 10,
+      "episodes": 38,
+      "year": 2023,
+      "image": "https://vcover-vt-pic.wetvinfo.com/vcover_vt_pic/0/n71k6pnfe1rq2qr1730711773539_a3ut_2MI/0",
+      "description": "A historical romance drama following Jiang Xuening's second chance at life.",
+      "cast": [
+        "Bai Lu",
+        "Zhang Linghe",
+        "Wang Xingyue"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "The First Jasmine",
+      "country": "China",
+      "genre": "Romance",
+      "rating": 9.8,
+      "episodes": 36,
+      "year": 2025,
+      "image": "https://i.pinimg.com/1200x/97/c4/ef/97c4efa7cd85378d53162fe8a08eaf3e.jpg",
+      "description": "A romantic drama about Moli's journey through love, friendship, and personal growth.",
+      "cast": [
+        "Bai Lu",
+        "Chen Zheyuan"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Queen of Tears",
+      "country": "Korea",
+      "genre": "Romance",
+      "rating": 9.2,
+      "episodes": 16,
+      "year": 2024,
+      "image": "https://i.pinimg.com/736x/30/fe/27/30fe275347dc938349e80cacf9a67f57.jpg",
+      "description": "A married couple faces a crisis and rediscovers love.",
+      "cast": [
+        "Kim Soo-hyun",
+        "Kim Ji-won"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Lovely Runner",
+      "country": "Korea",
+      "genre": "Fantasy",
+      "rating": 9.5,
+      "episodes": 16,
+      "year": 2024,
+      "image": "https://i.pinimg.com/736x/5b/b6/53/5bb65318a6c75a0ecd22f0f48866ff1d.jpg",
+      "description": "A fan travels back in time to save her favorite idol.",
+      "cast": [
+        "Byeon Woo-seok",
+        "Kim Hye-yoon"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Hidden Love",
+      "country": "China",
+      "genre": "Romance",
+      "rating": 9,
+      "episodes": 25,
+      "year": 2023,
+      "image": "https://m.media-amazon.com/images/M/MV5BOGY3MjkwMTYtODFkMy00YWZjLTkxODEtNWUwZTE5YjdiMDU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A young girl secretly falls in love with her brother's best friend.",
+      "cast": [
+        "Zhao Lusi",
+        "Chen Zheyuan"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Business Proposal",
+      "country": "Korea",
+      "genre": "Comedy Romance",
+      "rating": 8.8,
+      "episodes": 12,
+      "year": 2022,
+      "image": "https://i.pinimg.com/474x/5c/c2/73/5cc273caa50ef9b47e8f6601e97cea4c.jpg",
+      "description": "An employee goes on a blind date pretending to be her friend.",
+      "cast": [
+        "Ahn Hyo-seop",
+        "Kim Se-jeong"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "First Love",
+      "country": "Japan",
+      "genre": "Romance",
+      "rating": 9.1,
+      "episodes": 9,
+      "year": 2022,
+      "image": "https://resizing.flixster.com/-ezbKXV5a5D-SF0zdvF7AwM3Vps=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22353310_i_h9_aa.jpg",
+      "description": "A beautiful Japanese romance story.",
+      "cast": [
+        "Hikari Mitsushima",
+        "Takeru Satoh"
+      ]
+    },
+    {
+      "title": "Goblin",
+      "country": "Korea",
+      "genre": "Fantasy Romance",
+      "rating": 9.4,
+      "episodes": 16,
+      "image": "https://miro.medium.com/1*4FaGGN4RGH3Q3CuMnikunA.jpeg",
+      "description": "A lonely goblin searches for his bride.",
+      "cast": [],
+      "id": "7Pa91B2QWtQ"
+    },
+    {
+      "id": "9",
+      "title": "F4 Thailand",
+      "country": "Thailand",
+      "genre": "Romance",
+      "rating": 9.2,
+      "episodes": 16,
+      "year": 2021,
+      "image": "https://i.ytimg.com/vi/ZwEOD5LEJyc/hqdefault.jpg",
+      "description": "Thai adaptation of Boys Over Flowers.",
+      "cast": [
+        "Bright",
+        "Tu"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Your Name",
+      "country": "Anime",
+      "genre": "Fantasy Romance",
+      "rating": 9.7,
+      "episodes": 1,
+      "year": 2016,
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "description": "A body-switching romance story.",
+      "cast": [
+        "Mitsuha",
+        "Taki"
+      ]
+    },
+    {
+      "title": "Tale of the Nine-Tailed",
+      "country": "Korea",
+      "genre": "Romance, Fantasy",
+      "rating": 9.6,
+      "episodes": 17,
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ5NzE5ZjUtZDVlYi00NjNlLWE0OTAtZTllNWYxZDMzNjFkXkEyXkFqcGc@._V1_.jpg",
+      "description": "A fox-like demon who has taken human form must act fast to save a curious TV producer from harm. But will rescuing her spark romance between them?",
+      "cast": [
+        "lee dong wok",
+        "jo boh ah",
+        "kim beom"
+      ],
+      "id": "6tkst5IjP1c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
